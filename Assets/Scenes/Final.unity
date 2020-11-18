@@ -441,6 +441,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2706062565282726740, guid: 4dadb735f8dac8344ac15209eec66e2e, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 68a13513c9867c54c9f69dbb0f8becda, type: 3}
+    - target: {fileID: 3410036262514817659, guid: 4dadb735f8dac8344ac15209eec66e2e, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 8b5835c2074401c4caacc3f3b2195051, type: 3}
     - target: {fileID: 6304006932051844937, guid: 4dadb735f8dac8344ac15209eec66e2e, type: 3}
       propertyPath: m_IsActive
       value: 0
@@ -541,6 +549,10 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
       value: ScreenShot, Assembly-CSharp
       objectReference: {fileID: 0}
+    - target: {fileID: 6304006933030430598, guid: 4dadb735f8dac8344ac15209eec66e2e, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 0779f5c189d369144b13b959d6cbfa2c, type: 3}
     m_RemovedComponents:
     - {fileID: 6473534608683784, guid: 4dadb735f8dac8344ac15209eec66e2e, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 4dadb735f8dac8344ac15209eec66e2e, type: 3}
