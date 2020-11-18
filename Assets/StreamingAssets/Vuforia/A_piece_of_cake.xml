@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="chocolateCreamBall" size="300.000000 424.183807" />
+    <ImageTarget name="workPlate" size="300.000000 424.183807" />
+    <ImageTarget name="strawBerrySponge" size="300.000000 424.133759" />
+    <ImageTarget name="plate" size="300.000000 424.183807" />
+    <ImageTarget name="originalSponge" size="300.000000 424.133759" />
+    <ImageTarget name="originalCream" size="300.000000 424.183807" />
+    <ImageTarget name="chocolateSponge" size="300.000000 424.133759" />
+    <ImageTarget name="chocolateCream" size="300.000000 424.183807" />
+    <ImageTarget name="chocolateCookie" size="300.000000 424.012878" />
+    <ImageTarget name="cherry" size="300.000000 424.012878" />
+    <ImageTarget name="casdaCreamBall" size="300.000000 424.183807" />
+    <ImageTarget name="casdaCream" size="300.000000 423.962952" />
+    <ImageTarget name="blueberrySponge" size="300.000000 424.133759" />
+    <ImageTarget name="originalCreamBall" size="300.000000 424.183807" />
+  </Tracking>
+</QCARConfig>
